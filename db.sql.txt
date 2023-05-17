@@ -1,0 +1,8 @@
+create table(
+empid int,
+ename varchar(20),
+userid int,
+uname varchar(20),
+ticketno int,
+ticketname varchar(50),
+edate date);

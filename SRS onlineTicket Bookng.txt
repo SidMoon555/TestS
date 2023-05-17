@@ -1,0 +1,32 @@
+SRS- Online Ticket Bookig
+
+Introduction-
+             Onlie ticket booking system is use to provide a facilitity to purchase  a Ticket online.
+ with help of this platform many costomers will be attracted to Public Transport due to their time and money saving option.
+
+Functional Requirement-
+   Customor requirement:
+                        -It helps customers to save thrie time and money also.
+			- in fast moving world it is deficult to compatible with time.
+			- to reduce their effort we introduce this system
+   Compatibility-
+			-It is compatible with any service provided operator.
+			-Used frequently.
+    User Requirement-
+			- It is easy to use.
+			-Users can easily purchase ticket.
+			-'help' option available if in trouble.
+  
+ maintainance -
+			-Maintainance is frequently done.
+  			-Easy to maintain System
+Non-Functional Requirement
+    User Friedly-
+               user friendly application.
+               Easy to use.
+   Time Saving-
+               Saves a lot of time When in use.
+		can use multiple times.
+   money saving-
+		Saves a lot of money through public transportation.
+

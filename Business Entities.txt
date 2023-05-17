@@ -1,0 +1,8 @@
+Business Entities-
+    
+	-user
+	-ticket purchase
+	-services
+	-payment
+	-employee
+	-management
